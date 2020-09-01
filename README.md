@@ -1,4 +1,7 @@
 # Devops-Aula04.2
-Filme 01 <br>
-Filme 02<br>
-Filme 03<br>
+Uma Linda Mulher <br>
+Nasce uma Estrela<br>
+E o Ventoe vouu<br>
+Duro de Matar<br>
+Terra em Transe<br>
+ 
